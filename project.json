@@ -13,6 +13,7 @@
   "studioVersion": "19.12.0.61",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
     "autoDispose": false,
     "isPausable": true,
     "requiresUserInteraction": true,
